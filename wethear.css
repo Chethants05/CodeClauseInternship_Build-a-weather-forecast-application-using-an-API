@@ -5,9 +5,10 @@
     box-sizing: border-box;
   }
   body{
-    background-image:url('https://digitalrelativity.com/wp-content/uploads/2011/07/clouds.jpg');
+    background-image:url('http://s.w-x.co/iwitness-joycob-cumulus.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 2000px 2000px;
+    
   }
   .card{
     width: 450px;
